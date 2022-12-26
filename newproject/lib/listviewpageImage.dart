@@ -14,6 +14,7 @@ class ListViewPage1 extends StatefulWidget {
 
 class _ListViewPage1State extends State<ListViewPage1> {
   String _items = "";
+  String nothing = "OK";
   @override
   void initState() {
     // TODO: implement initState
