@@ -1,0 +1,83 @@
+{
+  "status":"SUCCESS",
+  "message":"Successfully get reward details",
+    "rewardsData": 
+[
+{
+      "rewardId": 1,
+      "rewardName": "Bursh",
+      "rewardDecs": "for painting to wall",
+      "rewardImage": "https://m.media-amazon.com/images/I/61mTGSx804S._AC_SL1000_.jpg",
+      "rewardPoint": "10",
+      "redeemDate": "2021-10-25",
+      "rewardStatus": "expire"
+    },
+{
+      "rewardId": 2,
+      "rewardName": "paint",
+      "rewardDecs": "type of color",
+      "rewardImage": "https://5.imimg.com/data5/SELLER/Default/2020/12/SF/ZL/ZY/2485983/painters-overall-dress-500x500.jpg",
+      "rewardPoint": "200",
+      "redeemDate": "2021-12-01",
+      "rewardStatus": "active"
+    },
+{
+      "rewardId": 3,
+      "rewardName": "shoes",
+      "rewardDecs": "for safty",
+      "rewardImage": "https://m.media-amazon.com/images/I/41UEzmAoaLL.jpg",
+      "rewardPoint": "210",
+      "redeemDate": "example2@gmail.com",
+      "rewardStatus": "will avaiable"
+    },
+{
+      "rewardId": 4,
+      "rewardName": "glubs",
+      "rewardDecs": "glubs for safty",
+      "rewardImage": "https://rukminim1.flixcart.com/image/416/416/jydaqa80/paint-glove/a/4/r/household-industrial-rubber-gloves-tool-zone-original-imafgme2pnrfzejj.jpeg?q=70",
+      "rewardPoint": "100",
+      "redeemDate": "example2@gmail.com",
+      "rewardStatus": "available"
+    }
+,
+{
+      "rewardId": 5,
+      "rewardName": "thiner",
+      "rewardDecs": "use for thin to paint",
+      "rewardImage": "https://3.imimg.com/data3/PC/LS/MY-2348807/paint-thinner-500x500.jpg",
+      "rewardPoint": "120",
+      "redeemDate": "example2@gmail.com",
+      "rewardStatus": "Expire"
+    }
+,
+{
+      "rewardId": 6,
+      "rewardName": "paint roller",
+      "rewardDecs": "rolor to brush wall",
+      "rewardImage": "https://rukminim1.flixcart.com/image/416/416/k4irzbk0/paint-roller/r/z/h/9-inches-big-texture-roller-brush-for-wall-painting-kamal-original-imafnej3pufhu5gg.jpeg?q=70",
+      "rewardPoint": "150",
+      "redeemDate": "example2@gmail.com",
+      "rewardStatus": "active"
+    }
+,
+{
+      "rewardId": 7,
+      "rewardName": "Double rolor",
+      "rewardDecs": "Double roller use for paint wall",
+      "rewardImage": "https://media.istockphoto.com/illustrations/double-paint-roller-illustration-id664393318",
+      "rewardPoint": "280",
+      "redeemDate": "example2@gmail.com",
+      "rewardStatus": "non-active"
+    }
+,
+{
+      "rewardId": 8,
+      "rewardName": "paint container",
+      "rewardDecs": "store paint",
+      "rewardImage": "https://5.imimg.com/data5/SELLER/Default/2020/8/JB/PS/DT/5296961/20-liter-paint-container-500x500.jpg",
+      "rewardPoint": "320",
+      "redeemDate": "example2@gmail.com",
+      "rewardStatus": "ABC123BB5"
+    }
+]
+}
